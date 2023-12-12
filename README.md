@@ -36,6 +36,8 @@ npm start
 ```
 Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
 
+Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
+
 🏗 Project Structure
 Unveil the architecture of the project, exploring components and layout.
 
@@ -49,6 +51,7 @@ Contribute your brilliance! Follow our Contribution Guidelines.
 This project is licensed under the MIT License.
 
 🙌 Acknowledgments
+
 Special thanks to Name for the inspiration that fueled this creation.
 
 ☕ Show Your Support
