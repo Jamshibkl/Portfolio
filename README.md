@@ -36,23 +36,39 @@ npm start
 ```
 Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
 
-Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
-
-🏗 Project Structure
+### 🏗 Project Structure
 Unveil the architecture of the project, exploring components and layout.
-
-🎨 Customization
+```bash
+/project-root
+│
+├── /src
+│   ├── /components
+│   │   ├── Component1.js
+│   │   ├── Component2.js
+│   │   └── ...
+│   ├── App.js
+│   ├── index.js
+│   └── ...
+│
+├── /Images
+│   ├── readme-img1.png
+│   └── ...
+│
+├── README.md
+├── package.json
+└── ...
+```
+### 🎨 Customization
 Tailor the content to fit your style! Head to /src/components/ and make the portfolio truly yours.
 
-🤝 Contributing
+ ### 🤝 Contributing
 Contribute your brilliance! Follow our Contribution Guidelines.
 
-📜 License
+### 📜 License
 This project is licensed under the MIT License.
 
-🙌 Acknowledgments
-
+### 🙌 Acknowledgments
 Special thanks to Name for the inspiration that fueled this creation.
 
-☕ Show Your Support
+### ☕ Show Your Support
 If you find this website stellar, give it a ⭐️!
