@@ -24,7 +24,7 @@ Discover the brilliance of my personal portfolio, where creativity meets technol
 ## 🚀 Getting Started
 Ready to embark on this coding journey? Clone this repository, ensure you have `node.js` and `git` installed globally, and let the exploration begin!
 
-### 📥 Installation
+## 📥 Installation
 
 ```bash
 npm install
@@ -36,7 +36,7 @@ npm start
 ```
 Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
 
-### 🏗 Project Structure
+## 🏗 Project Structure
 Unveil the architecture of the project, exploring components and layout.
 ```bash
 /project-root
@@ -58,17 +58,17 @@ Unveil the architecture of the project, exploring components and layout.
 ├── package.json
 └── ...
 ```
-### 🎨 Customization
+## 🎨 Customization
 Tailor the content to fit your style! Head to /src/components/ and make the portfolio truly yours.
 
- ### 🤝 Contributing
+ ## 🤝 Contributing
 Contribute your brilliance! Follow our Contribution Guidelines.
 
-### 📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
-### 🙌 Acknowledgments
+## 🙌 Acknowledgments
 Special thanks to Name for the inspiration that fueled this creation.
 
-### ☕ Show Your Support
+## ☕ Show Your Support
 If you find this website stellar, give it a ⭐️!
