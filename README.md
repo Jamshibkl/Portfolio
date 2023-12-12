@@ -25,13 +25,15 @@ Discover the brilliance of my personal portfolio, where creativity meets technol
 Ready to embark on this coding journey? Clone this repository, ensure you have `node.js` and `git` installed globally, and let the exploration begin!
 
 ### 📥 Installation
+
 ```bash
 npm install
-
+```
 ▶️ Running the Application
-bash
-Copy code
+
+```bash
 npm start
+```
 Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
 
 🏗 Project Structure
