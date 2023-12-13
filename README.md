@@ -1,4 +1,4 @@
-# 🚀 Jamsheer's Stellar Portfolio
+#  Portfolio 🚀
 
 ## Overview
 Discover the brilliance of my personal portfolio, where creativity meets technology! Explore my GitHub projects, dive into my resume, and witness a showcase of technical prowess.
