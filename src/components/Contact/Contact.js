@@ -1,9 +1,12 @@
 import React from 'react';
 import ContactImg from '../../Assets/Programmer-bro.svg'
+import Particle from '../Particle';
 function Contact() {
   return (
-    <div>
-        <section className='about-section'>
+    <section>
+      <Particle />
+
+        <section className='contact-section' id='contact'>
         <div className="content">
       <div className="container">
         <div className="row justify-content-center">
@@ -16,7 +19,7 @@ function Contact() {
 
               </div>
               <div className="col-md-6">
-              <h3 className="heading mb-4"><span className='purple'>Let's</span> talk <span className='purple'>about</span> everything!</h3>
+              <h3 className="heading mb-4 white sm-3">CONTACT <span className='purple'>ME</span></h3>
 
                 <form className="mb-5" method="post" id="contactForm" name="contactForm">
                   <div className="row">
@@ -41,15 +44,11 @@ function Contact() {
                   </div>
                   <div className="row">
                     <div className="col-12">
-                      <input type="submit" value="Send Message" className="btn btn-primary rounded-0 py-2 px-4" />
+                      <input type="submit" value="Send Message" className="sub-btn btn-primary rounded-0 py-2 px-4" />
                       <span className="submitting"></span>
                     </div>
                   </div>
                 </form>
-
-                <div id="form-message-warning mt-4"></div>
-                <div id="form-message-success">
-                </div>
               </div>
             </div>
           </div>
@@ -57,7 +56,7 @@ function Contact() {
       </div>
     </div>
       </section>
-    </div>
+    </section>
   );
 }
 
