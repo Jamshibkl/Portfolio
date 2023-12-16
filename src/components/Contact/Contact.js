@@ -3,24 +3,28 @@ import ContactImg from '../../Assets/Programmer-bro.svg'
 import Particle from '../Particle';
 function Contact() {
   return (
-    <section>
-      <Particle />
+
+    
 
         <section className='contact-section' id='contact'>
-        <div className="content">
+            <Particle />
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-md-10">
 
-            <div className="row justify-content-center">
-              <div className="col-md-6">
+            <div className="row mr-2">
+               <div className="col-md-6">
+               
 
                 <p><img src={ContactImg} alt="Image" className="img-fluid" /></p>
 
               </div>
+              
               <div className="col-md-6">
+           
               <h3 className="heading mb-4 white">CONTACT <span className='purple'>ME</span></h3>
-
+              <p className='purple'>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+              Exercitationem dolores nobis possimus velit corporis.</p>
                 <form className="mb-5" method="post" id="contactForm" name="contactForm">
                   <div className="row">
                     <div className="col-md-12 form-group">
@@ -50,13 +54,13 @@ function Contact() {
                   </div>
                 </form>
               </div>
+             
             </div>
           </div>
         </div>
       </div>
-    </div>
       </section>
-    </section>
+   
   );
 }
 

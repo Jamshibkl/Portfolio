@@ -701,7 +701,7 @@ button:focus {
 .contact-section{
   position: relative;
   z-index: -1;
-  padding-bottom: 10px !important;
+  padding-bottom: 55px !important;
   padding-top: 100px !important;
   background: var(--section-background-color);
 }
