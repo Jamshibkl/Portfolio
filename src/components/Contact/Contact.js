@@ -19,12 +19,12 @@ function Contact() {
 
               </div>
               <div className="col-md-6">
-              <h3 className="heading mb-4 white sm-3">CONTACT <span className='purple'>ME</span></h3>
+              <h3 className="heading mb-4 white">CONTACT <span className='purple'>ME</span></h3>
 
                 <form className="mb-5" method="post" id="contactForm" name="contactForm">
                   <div className="row">
                     <div className="col-md-12 form-group">
-                      <input type="text" className="form-control" name="name" id="name" placeholder="Your name" />
+                      <input type="text" className="form-control rounded" name="name" id="name" placeholder="Your name" />
                     </div>
                   </div>
                   <div className="row">
@@ -44,7 +44,7 @@ function Contact() {
                   </div>
                   <div className="row">
                     <div className="col-12">
-                      <input type="submit" value="Send Message" className="sub-btn btn-primary rounded-0 py-2 px-4" />
+                      <input type="submit" value="Send Message" className="sub-btn btn-primary rounded py-2 px-4" />
                       <span className="submitting"></span>
                     </div>
                   </div>
