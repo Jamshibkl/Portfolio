@@ -13,7 +13,7 @@ html {
   );
 
   --imp-text-color: green;
-  --main-color:#1B401F;
+  --main-color:#34aa17;
   /* #63d388 */
   /* #92E3A9 */
 }
@@ -335,7 +335,7 @@ button:focus {
   position: relative;
   padding-bottom: 70px !important;
   padding-top: 70px !important;
-  background-image: var(--section-background-color) !important;
+  background: #fff!important;
 }
 
 .home-about-description {

@@ -24,7 +24,7 @@ function ResumeNew() {
             variant="primary"
             href={pdf}
             target="_blank"
-            style={{ maxWidth: "250px" }}
+            style={{ maxWidth: "250px",border:" 5px solid #323232",boxShadow:"4px 4px #323232",backgroundColor:"#2d8cf0" }}
           >
             <AiOutlineDownload />
             &nbsp;Download CV
@@ -42,7 +42,7 @@ function ResumeNew() {
             variant="primary"
             href={pdf}
             target="_blank"
-            style={{ maxWidth: "250px" }}
+            style={{ maxWidth: "250px",border:" 5px solid #323232",boxShadow:"4px 4px #323232",backgroundColor:"#2d8cf0"}}
           >
             <AiOutlineDownload />
             &nbsp;Download CV
