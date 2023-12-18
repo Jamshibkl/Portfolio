@@ -13,7 +13,7 @@ html {
   );
 
   --imp-text-color: green;
-  --main-color:#34aa17;
+  --main-color:#1bc36c;
   /* #63d388 */
   /* #92E3A9 */
 }
@@ -23,7 +23,7 @@ html {
 then set the desired styles for .card-img. */
 
 .purple {
-  color: #000 !important;
+  color: var(--main-color) !important;
 }
 
 button:focus {
@@ -502,7 +502,7 @@ button:focus {
 .project-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;
-  box-shadow: 0 2px 2px 2px var(--main-color) !important;
+  box-shadow: 4px 4px var(--main-color) !important;
   border-color: var(--main-color);
 }
 
