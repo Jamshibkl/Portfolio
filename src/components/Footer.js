@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Mohammed Jamsheer</h3>
+          <h3>Designed and Developed by Mohammed jamsheer</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} MJ</h3>
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/mohammed-jamsheer-cpl/"
+                href="https://www.linkedin.com/in/mohammed-jamsheer-cpl"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
