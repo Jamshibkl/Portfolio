@@ -56,7 +56,7 @@ function Projects() {
               This project aims to replicate the user experience of a popular online marketplace, 
               allowing users to post ads, browse listings, and interact with a real-time Firebase backend."
               ghLink="https://github.com/Jamshibkl/React_olx_clone"
-              demoLink="https://github.com/Jamshibkl/React_olx_clone"
+              demoLink="https://react-olx-clone-five.vercel.app/"
             />
           </Col>
 
@@ -67,7 +67,7 @@ function Projects() {
               title="Netflix Clone"
               description=" React Netflix Clone, a project that replicates the sleek and user-friendly interface of the popular streaming service. Built using React.js, this clone showcases your ability to create a dynamic and responsive application that delivers a seamless streaming experience."
               ghLink="https://github.com/Jamshibkl/React-Netflix-Clone"
-              demoLink="react-netflix-clone-iota.vercel.app"
+              demoLink="https://jamshibkl.github.io/React-Netflix-Clone"
             />
           </Col>
 
@@ -79,7 +79,7 @@ function Projects() {
               description="my Personal Portfolio Website, a showcase of my skills, projects, and professional background. This platform serves as a window into my expertise and accomplishments, 
               offering a glimpse into the technologies and projects that define my journey in the world of web development."
               ghLink="https://github.com/Jamshibkl/Portfolio"
-              demoLink="https://github.com/Jamshibkl/Portfolio"
+              demoLink="https://portfolio-jamshibkls-projects.vercel.app/project"
             />
           </Col>
         </Row>
