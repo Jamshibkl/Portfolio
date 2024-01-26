@@ -1,6 +1,6 @@
 
 
-# My personal portfolio 🌱🚀
+# My personal portfolio 🚀
 
 ### This project was built using these technologies.
 
